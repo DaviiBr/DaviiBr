@@ -4,9 +4,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibrcontato7@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-brasil-345420203/)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviiBr&show_icons=true)
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviiBr&layout=compact)
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block">
