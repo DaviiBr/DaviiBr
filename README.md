@@ -1,5 +1,5 @@
 
-## Bem-vindo ao meu perfil do GitHub! Eu sou o Davi Brasil 👋
+## Bem-vindo ao meu perfil do GitHub!  👋
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibrcontato7@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-brasil-345420203/)
